@@ -1,6 +1,6 @@
 A node.js driver for the TOCAnet UDP adapter for ekey fingerprint scanners.
 
-[![Build Status](https://secure.travis-ci.org/alexkwolfe/node-tocanet.png)](http://travis-ci.org/alexkwolfe/node-tocanet)
+[![Build Status](https://secure.travis-ci.org/alexkwolfe/node-ekey.png)](http://travis-ci.org/alexkwolfe/node-ekey)
 
 The TOCAnet UDP adapter attaches to ekey fingerprint scanners. The adapter announces fingerprint scanner activity
 via UDP messages. This driver parses those messages and emits events.
